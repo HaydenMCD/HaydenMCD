@@ -11,7 +11,7 @@ Actively looking for employment in the I.T field!
 
 Connect with me via my LinkedIn!   
 
-<a href = 'www.linkedin.com/in/haydenmcdowall'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'www.linkedin.com/in/haydenmcdowall/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 
 ## 🧑‍💻 Skills
 
